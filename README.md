@@ -1,5 +1,7 @@
 # vue-todo-list
 
+[Demo](https://brnovk.github.io/vue-todo-list/).
+
 ## Project setup
 ```
 npm install
